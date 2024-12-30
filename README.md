@@ -2,6 +2,8 @@
 
 Script para facilitar a geração do corpo de e-mails para a newsletter do BoletIME.
 
+O layout foi rascunhado na plataforma [BeeFree](https://beefree.io) e teve seu HTML extraído e editado manualmente. Para atualizações grandes, recomendo voltar na plataforma e editar lá, depois refazer o processo.
+
 ## Como faço?
 
 Para inserir as informações, edite o arquivo `info.yaml` inserindo as datas, novidades e posts desejados.
