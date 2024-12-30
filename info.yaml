@@ -1,0 +1,22 @@
+link_forms_boletime: https://forms.gle/nLTxbpnbdTnk3g5F7
+boletime_numero: 17
+boletime_mes_ano: Jan/2024
+ano: 2
+numero: 3
+data: 30/13/2029
+avisos:
+    - '1.1. As eleições para representação discente do IME ocorrerão entre os dias 5 e 6 de dezembro. A votação será online via sistema <em>Helios Voting</em>, e os links serão enviados no e-mail. Para facilitar, neste ano disponibilizaremos todos os links em uma única página, <a href="https://camat.ime.usp.br" rel="noopener" style="text-decoration: underline; color: #ba3925;" target="_blank"> acessível aqui</a>. Alune do IME, participe!'
+    - '1.2. As eleições do CAMat ocorreram nos dias 4 e 5 de novembro, e a chapa <em>Alexandra Elbakyan</em> foi eleita! Conheça os membros da gestão e seu programa <a href="https://camat.ime.usp.br/gestao" rel="noopener" style="text-decoration: underline; color: #7747FF;" target="_blank">clicando aqui</a>.'
+    - '1.3 tá funcionando!'
+posts:
+    - titulo: 'Efeitos da redução da jornada de trabalho sobre os salários'
+      autoria: 'Karl Marx'
+      resumo: 'Excerto do segundo capítulo do livro “Salário, Preço e Lucro”, escrito por Karl Marx em 1865 comentando sobre a Lei das Dez Horas passada em 1848, na Inglaterra. O excerto foi publicado originalmente no site Em Defesa do Comunismo e dialoga com o momento atual da luta contra a escala 6x1, colocando em cheque os velhos argumentos sobre a produtividade, lucro e salário.'
+      link: 'https://camat.ime.usp.br/boletime_post/2024/12/01/efeitos_da_reducao_da_jornada_de_trabalho.html'
+      capa: 'https://camat.ime.usp.br/images/boletime/posts/20241201_efeitos_da_reducao_da_jornada_de_trabalho/capa.jpg'
+    
+    - titulo: 'Popular, mas insustentável, CBLOL paga preço da crise nos e-sports'
+      autoria: 'Gabriel Oliveira'
+      resumo: '“Mesmo popular, o CBLOL não conseguiu transformar audiência em dinheiro capaz de salvá-lo da crise dos esportes eletrônicos [..]”. Matéria da Globo Esportes que traz à tona a volatilidade do atual modelo de negócios dos jogos eletrônicos e E-Sports.'
+      link: 'https://camat.ime.usp.br/boletime_post/2024/12/03/cblol_paga_preco_da_crise_nos_esports.html'
+      capa: 'https://camat.ime.usp.br/images/boletime/posts/20241203_cblol_paga_preco_da_crise_nos_esports/capa.jpg'
